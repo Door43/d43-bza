@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bza:home|Door43 (bza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bza|d43-bza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bza/archive/master.zip|d43-bza.zip]]
+
+**Recent Changes**
+{{changes>ns = bza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bza|Ethnologue data]]
+
